@@ -12,7 +12,7 @@ from torch_dataset import SFDataset
 
 device = "cuda"
 
-epochs = 1000
+epochs = 100
 
 frame_stack = 16
 
